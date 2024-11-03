@@ -1,8 +1,9 @@
-.explora-regular {
-    font-family: "Explora", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 .barlow-thin {
     font-family: "Barlow", sans-serif;
     font-weight: 75;
@@ -12,8 +13,8 @@
     background-color: black;
 }
 .navbar-brand{
-    font-family: "Explora", serif;
-    font-size: 50px;
+    font-family: "Playfair Display", serif;
+    font-size: 30px;
     color: #fff; 
 }
 .navbar-text,.nav-link{
@@ -21,4 +22,88 @@
     font-size: 15px;
     font-style: italic;
     color: lightgrey; 
+}
+.block-carousel {
+    width: 100%;
+    max-width: 300px; 
+    max-height: 500px;
+    float: left; 
+    margin: 0; 
+    margin-right: 20px; 
+}
+
+.carousel-item img {
+    width: 100%; 
+    height: 500px;
+    object-fit: cover; 
+    display: block; 
+    margin: 0; 
+    margin-bottom: 20px;
+}
+#Title1{
+    font-family: "Playfair Display", serif;
+    font-size: 30px;
+    color:black;
+}
+#Intro{
+    font-family: "Barlow", sans-serif;
+    color:black;
+
+}
+#art{
+    font-family: "Playfair Display", serif;
+    margin-top: 50px;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+#p1,#p2,#p3{
+    font-family: "Barlow", sans-serif;
+    color:black;
+    font-weight: normal;
+}
+#Titulo3{
+    font-family: "Playfair Display", serif;
+   margin-left: 140px ;
+    font-weight: bold;
+}
+.custom-accordion {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .custom-accordion-container {
+    max-width: 700px; 
+    margin: 0 auto; 
+  }
+  
+  .custom-accordion-item {
+    margin-bottom: 15px;
+  }
+  #titulo4,#titulo5,#titulo6,#titulo7{
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+  }
+  #tiktok{
+ 
+    margin-left: 50px ;
+    margin-bottom: 50px;
+  }
+  .Footer{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    height: 150px;
+}
+#F1{
+    font-family: "Playfair Display", serif;
+    margin-left: 80px ;
+    padding-top: 25px;
+     font-weight: bold;
+     color: #fff;  
+}
+
+#F{
+    font-family: "Playfair Display", serif;
+    color: #fff;
 }
