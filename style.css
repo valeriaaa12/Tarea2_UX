@@ -1,0 +1,24 @@
+.explora-regular {
+    font-family: "Explora", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.barlow-thin {
+    font-family: "Barlow", sans-serif;
+    font-weight: 75;
+    font-style: normal;
+  }
+.navbar {
+    background-color: black;
+}
+.navbar-brand{
+    font-family: "Explora", serif;
+    font-size: 50px;
+    color: #fff; 
+}
+.navbar-text,.nav-link{
+    font-family: "Barlow", sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    color: lightgrey; 
+}
